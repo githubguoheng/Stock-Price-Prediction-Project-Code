@@ -17,7 +17,7 @@
 
 在训练时，如果我们使用 7 列 [target,feature1, feature2, feature3, feature4, feature5, feature6] 来训练模型，我们需要为即将到来的预测日提供 6 列 [feature1, feature2, feature3, feature4, feature5, feature6]
 
-**LSTM**:是一个循环神经网络，能够处理长期依赖关系，不过过多的介绍，可以参考 [LSTM 长短期记忆人工神经网络](https://baike.baidu.com/item/%E9%95%BF%E7%9F%AD%E6%9C%9F%E8%AE%B0%E5%BF%86%E4%BA%BA%E5%B7%A5%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/17541107?fr=ge_ala)
+**LSTM**:是一个循环神经网络，能够处理长期依赖关系，不做过多的介绍，可以参考 [LSTM 长短期记忆人工神经网络](https://baike.baidu.com/item/%E9%95%BF%E7%9F%AD%E6%9C%9F%E8%AE%B0%E5%BF%86%E4%BA%BA%E5%B7%A5%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/17541107?fr=ge_ala)
 
 
 ### 预测招商银行股价实现思路
