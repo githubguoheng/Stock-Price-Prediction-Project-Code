@@ -140,3 +140,6 @@ plt.show()
 
 机器学习理论近几年发展较为迅速，但成功的应用于实际业务助力业务发展的案例却较少，可能受限于自己的知识范围，还没有接触到有比较成功的将机器学习应用于证券交易的案例，希望能发现学习一下
 
+### 参考
+[Stock Price Prediction – Machine Learning Project in Python](https://data-flair.training/blogs/stock-price-prediction-machine-learning-project-in-python/)
+
